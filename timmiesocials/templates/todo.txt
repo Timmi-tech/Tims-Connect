@@ -1,0 +1,7 @@
+-download the template needed
+-create a model
+then you craeet a default image
+user registration(sigin,signup,logout)
+link the user toa profile
+now you work on the account settings
+create the uploading post
